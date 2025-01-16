@@ -19,7 +19,7 @@ Finding a reliable and affordable transcription tool can be tough. SubEasy.ai br
 Got feedback or suggestions? SubEasy.ai values your input! Reach out to us to help make SubEasy even better.
 
 ## Connect With Us
-- Visit our website: [SubEasy.ai](https://subeasy.ai)  
+- Visit our website: [SubEasy](https://www.subeasy.ai/)  
 - Follow our roadmap for future developments: [SubEasy.ai Roadmap](https://trello.com/b/8W1SEpZe/subeasyai-roadmap)
 
 Let’s make transcription and translation effortless with SubEasy.ai! 🚀
